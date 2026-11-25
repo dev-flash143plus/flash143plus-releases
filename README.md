@@ -26,7 +26,8 @@ Please make sure you understand what the software does before using it.
 
 For further information about the project, its background, documentation and licensing, please refer to the main project information:
 
-[official project page](https://github.com/dev-flash143plus/.github/blob/main/profile/README.en.md).
+- [official project page](https://github.com/dev-flash143plus/.github/blob/main/profile/README.en.md)
+- [carrera-go.info - Alternative Firmware für den D143 Decoder](https://www.carrera-go.info/forum/index.php?thread/21189-alternative-firmware-f%C3%BCr-den-d143-decoder/&postID=269617#post269617)
 
 ## Downloads
 
