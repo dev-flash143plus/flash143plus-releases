@@ -26,7 +26,7 @@ Please make sure you understand what the software does before using it.
 
 For further information about the project, its background, documentation and licensing, please refer to the main project information:
 
-[**Project README – .github repository**](https://github.com/USERNAME/.github)
+[official project page](https://github.com/dev-flash143plus/.github/blob/main/profile/README.en.md).
 
 ## Downloads
 
